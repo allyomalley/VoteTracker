@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 use_logo: true
 logo: https://raw.githubusercontent.com/allyomalley/VoteTracker/master/Icon-App-83.5x83.5@2x.png
+use_avatar: true
 avatar: https://raw.githubusercontent.com/allyomalley/VoteTracker/master/avatar.png
