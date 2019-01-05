@@ -4,8 +4,6 @@
 
 Description here
 
-![Image](https://raw.githubusercontent.com/allyomalley/VoteTracker/master/Icon-App-83.5x83.5@2x.png)
-
 ### Contact
 
 Email: allysonomalley.iossec@gmail.com
