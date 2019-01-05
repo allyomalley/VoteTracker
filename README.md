@@ -1,39 +1,19 @@
 ## VoteTracker iOS App
 
-You can use the [editor on GitHub](https://github.com/allyomalley/VoteTracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://raw.githubusercontent.com/allyomalley/VoteTracker/master/Icon-App-83.5x83.5@2x.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Description here
 
 ![Image](https://raw.githubusercontent.com/allyomalley/VoteTracker/master/Icon-App-83.5x83.5@2x.png)
 
-### Markdown
+### Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: allysonomalley.iossec@gmail.com
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Privacy Policy
 
-- Bulleted
-- List
+VoteTracker does not collect, store, or sell any personal information of users. 
 
-1. Numbered
-2. List
+If you opt in to receive push notifications, we will store a unique instance ID corresponding to your device in order to deliver the notifications. Instance IDs are stored securely with Google's Firebase Cloud Messaging (https://firebase.google.com/support/privacy/). Instance IDs will expire when the app is uninstalled.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://raw.githubusercontent.com/allyomalley/VoteTracker/master/iTunesArtwork@1x.png)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allyomalley/VoteTracker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
