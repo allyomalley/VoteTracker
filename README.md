@@ -13,5 +13,5 @@ Email: allysonomalley.iossec@gmail.com
 
 VoteTracker does not collect, store, or sell any personal information of users. We do not collect information such as email addresses or passwords, as there is no sign up required to use the app.
 
-If you opt in to receive push notifications, we will store a unique instance ID corresponding to your device in order to deliver the notifications. Instance IDs are stored securely with Google's Firebase Cloud Messaging (https://firebase.google.com/support/privacy/). Instance IDs will expire when the app is uninstalled.
+If you opt in to receive push notifications, we will store a unique instance ID corresponding to each installation of the app in order to deliver the notifications. Instance IDs are stored securely with Google's Firebase Cloud Messaging (https://firebase.google.com/support/privacy/). Instance IDs will expire when the app is uninstalled.
 
